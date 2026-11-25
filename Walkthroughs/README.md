@@ -71,7 +71,7 @@ The walkthroughs focus on real-world OSINT techniques including username enumera
 - **Status:** Complete
 - **Difficulty:** Easy
 - **Topics:** Reconnaissance
-- **Walkthrough:** [Threat Intel Team](Skillbit_OSINT_Challenges/Walkthroughs/Threat_Intel_Team.md)
+- **Walkthrough:** [Threat Intel Team](./Threat_Intel_Team.md)
 
 ### Challenge 2
 - **Status:** Complete
