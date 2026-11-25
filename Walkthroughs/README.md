@@ -66,24 +66,7 @@ The walkthroughs focus on real-world OSINT techniques including username enumera
 ---
 
 ## Challenge Walkthroughs
-
-### Challenge 1
-- **Status:** Complete
-- **Difficulty:** Easy
-- **Topics:** Reconnaissance
-- **Walkthrough:** [Threat Intel Team](./Threat_Intel_Team.md)
-
-### Challenge 2
-- **Status:** Complete
-- **Difficulty:** Medium
-- **Topics:** Metadata Analysis, Image Intelligence
-- **Walkthrough:** [Challenge 2](./Walkthroughs/challenge2.md)
-
-### Challenge 3
-- **Status:** Complete
-- **Difficulty:** Hard
-- **Topics:** Geolocation, Attribution Analysis
-- **Walkthrough:** [Challenge 3](./Walkthroughs/challenge3.md)
+[Threat Intel Team](./Threat_Intel_Team.md)
 
 ---
 
